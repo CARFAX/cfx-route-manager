@@ -1,0 +1,29 @@
+{
+    "name": "cfx-route-manager",
+    "version": "0.0.7",
+    "description": "A CARFAX Angular library that provides advanced Routing, with support for backwards-compatible html5 mode.",
+    "authors": [
+        "CARFAX FCF Team <firstclassfrontend@carfax.com>"
+    ],
+    "main": "dist/cfx-route-manager.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CARFAX/cfx-route-manager.git"
+    },
+    "license": "MIT",
+    "keywords": [
+        "carfax",
+        "cfx",
+        "javascript",
+        "angular",
+        "routes",
+        "route manager"
+    ],
+    "dependencies": {
+        "angular": "~1.2.19",
+        "angular-route": "~1.2.26"
+    },
+    "devDependencies": {
+        "angular-mocks": "~1.2.19"
+    }
+}
