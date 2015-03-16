@@ -140,6 +140,6 @@ Returns the current Route object
 Contact & License Info
 -----
 
-Author: CARFAX First-Class Frontend Team
-Email: opensource@carfax.com
+Author: CARFAX First-Class Frontend Team  
+Email: opensource@carfax.com  
 License: MIT
