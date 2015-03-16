@@ -137,11 +137,6 @@ Returns the current Route object
     >>     controller: 'ListController'
     >> }
 
-Documentation
------
-
-Documented examples can be found at [carfax.github.io/cfx-route-manager](http://carfax.github.io/cfx-route-manager/)
-
 Contact & License Info
 -----
 
